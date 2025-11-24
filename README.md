@@ -1,7 +1,7 @@
 # 🇧🇷 
 # 📊 Otimização de Marketing da Y.Afisha
 
-Neste projeto, trabalhei com dados reais de acessos, compras e investimentos em marketing da Y.Afisha, uma plataforma online de entretenimento. O objetivo foi entender o comportamento dos usuários e ajudar a empresa a otimizar seus gastos com marketing.
+Aqui, trabalhei com dados reais de acessos, compras e investimentos em marketing da Y.Afisha, uma plataforma online de entretenimento. O objetivo foi entender o comportamento dos usuários e ajudar a empresa a otimizar seus gastos com marketing.
 
 Comecei preparando os dados de três fontes diferentes: registros de visitas, pedidos e custos. Ajustei tipos, tratei inconsistências e deixei tudo pronto para a análise.
 
@@ -42,7 +42,7 @@ Foi um projeto completo, combinando análise de produto, vendas e marketing em u
 # 🇺🇸
 # 📊 Y.Afisha Marketing Optimization Analysis
 
-In this project, I worked with real datasets from Y.Afisha — user activity logs, purchase data, and marketing spend. The goal was to analyze user behavior and help the company optimize its marketing investments.
+For this analysis, I worked with real datasets from Y.Afisha — user activity logs, purchase data, and marketing spend. The goal was to analyze user behavior and help the company optimize its marketing investments.
 
 I started by cleaning and preparing three different datasets: site visits, orders, and advertising costs. This included fixing data types, handling missing values, and getting everything ready for analysis.
 
